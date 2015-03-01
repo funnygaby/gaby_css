@@ -6007,7 +6007,7 @@ table.table_block td {
   @media (min-width: 768px) {
     #home-page-tabs {
       padding: 10px 0;
-      margin: 0 0 0 -18px; } }
+      margin: 0 0 0 0; } }
   #home-page-tabs > li {
     margin-bottom: 0; }
     @media (min-width: 768px) {
